@@ -194,4 +194,4 @@ Evaluate host verification and reliability.
 
 ![Overview](https://github.com/mudita117/Airbnb-Global-Performance-Dashboard/blob/main/Overview.png)
 ![Ratings](https://github.com/mudita117/Airbnb-Global-Performance-Dashboard/blob/main/Ratings.png)
-           ()
+![Review](https://github.com/mudita117/Airbnb-Global-Performance-Dashboard/blob/main/Review.png)
