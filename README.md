@@ -26,7 +26,8 @@ The dashboard was developed using:
 - 🔄 **Power Query** – Data cleaning and transformation  
 - 🧠 **DAX (Data Analysis Expressions)** – Calculated measures & KPIs  
 - 🗂️ **Data Modeling** – Relationship building and cross-filtering  
-- 📁 **File Format** – `.png` preview images  
+- 📁 **File Format** – `.png` preview images
+- 🔖 **Power BI Bookmarks** – Used for interactive navigation and view switching (Overall vs Detailed Ratings) 
 
 ---
 
