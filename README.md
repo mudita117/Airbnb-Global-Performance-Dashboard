@@ -192,6 +192,6 @@ Evaluate host verification and reliability.
 
 ## 📸 Dashboard Preview 
 
-Link here: ()
+Link here: (https://github.com/mudita117/Airbnb-Global-Performance-Dashboard/blob/main/Overview.png)
            ()
            ()
